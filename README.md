@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Check out my full portfolio & links at [thomaskeig.com](https://thomaskeig.com)
+
+[![wakatime](https://wakatime.com/badge/user/480b687b-2192-4bd9-8fce-2c512ab7aab5.svg)](https://wakatime.com/@480b687b-2192-4bd9-8fce-2c512ab7aab5)
+
 <!--
 **thomaskeig/thomaskeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
