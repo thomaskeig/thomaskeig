@@ -2,7 +2,9 @@
 
 Check out my full portfolio & links at [thomaskeig.com](https://thomaskeig.com)
 
-[![wakatime](https://wakatime.com/badge/user/480b687b-2192-4bd9-8fce-2c512ab7aab5.svg)](https://wakatime.com/@480b687b-2192-4bd9-8fce-2c512ab7aab5)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaskeig)]
+
+Total time spent coding: [![wakatime](https://wakatime.com/badge/user/480b687b-2192-4bd9-8fce-2c512ab7aab5.svg)](https://wakatime.com/@480b687b-2192-4bd9-8fce-2c512ab7aab5)
 
 <!--
 **thomaskeig/thomaskeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
